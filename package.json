@@ -1,0 +1,23 @@
+{
+  "name": "pecha-kucha-night",
+  "version": "1.0.0",
+  "description": "## Tech stack - Node.js - Vue.js - GoCD - GitHub - Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hscorrea/pecha-kucha-night.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hscorrea/pecha-kucha-night/issues"
+  },
+  "homepage": "https://github.com/hscorrea/pecha-kucha-night#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
